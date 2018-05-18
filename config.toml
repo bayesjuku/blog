@@ -1,5 +1,6 @@
 baseurl = "/"
 title = "広べ部"
+publishDir = "docs"
 languageCode = "ja-jp"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
