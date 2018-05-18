@@ -1,0 +1,33 @@
+baseurl = "/"
+title = "広べ部"
+publishDir = "docs"
+languageCode = "ja-jp"
+paginate = "10" # Number of posts per page
+theme = "Mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+    name = "広島ベイズ塾"
+    bio = "ベイズ好きな心理学者を中心とした変態の集合体"
+    avatar = "img/avatar.png"
+
+
+[Params]
+    subtitle = "広島ベイズ塾のブログ" # Subtitle of your site
+    description = "塾ブログ" # Description of your site
+    opengraph = true
+    twitter_cards = false
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"]
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
