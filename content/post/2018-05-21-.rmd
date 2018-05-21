@@ -1,0 +1,22 @@
+---
+title: 塾ブログ開設しました。
+author: ~
+date: '2018-05-21'
+slug: ''
+categories: [NEWS,]
+tags: [blogdown]
+description: ''
+thumbnail: ''
+---
+
+ベイズ塾のブログを開設しました。ベイズ塾や塾生が関わる出版物、研修会や研究会などの情報を、適宜こちらに配信します。ベイズ塾のHPも現在鋭意作成中です。
+
+なお、このブログサイトは、RStudioでblogdownパッケージを使用して作っています。
+
+下記のページ、blogdownを使ったサイト作りの参考になります。ブログ記事はRstudio+githubでcommit!! push!!の時代になって、R userとしては嬉しい限りです。
+
+- [Rとblogdownでかんたんにgithub.io上にブログを使ってみよう！！](https://qiita.com/masato_t/items/7bbfa74f8de0dc06c91c)
+
+- [blogdownのTips](https://kazutan.github.io/blog/2017/04/blogdown-tips/)
+
+- [RSTUDIOではグラブれないけど、ブログれる](https://ytake2.github.io/blog2/post/blogdown/)

@@ -1,61 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ベイズ塾</title>
+    <title>Posts on ベイズ塾のブログ</title>
     <link>/post/</link>
-    <description>Recent content in Posts on ベイズ塾</description>
+    <description>Recent content in Posts on ベイズ塾のブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>テスト</title>
-      <link>/post/2018-05-18-/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <title>塾ブログ開設しました。</title>
+      <link>/post/2018-05-21-/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-05-18-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>テスト2</title>
-      <link>/post/2/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>テスト3</title>
-      <link>/post/3/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>テスト4</title>
-      <link>/post/4/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/2018-05-21-/</guid>
+      <description>ベイズ塾のブログを開設しました。ベイズ塾や塾生が関わる出版物、研修会や研究会などの情報を、適宜こちらに配信します。ベイズ塾のHPも現在鋭意作</description>
     </item>
     
   </channel>
