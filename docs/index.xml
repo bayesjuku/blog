@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ベイズ塾のブログ</title>
+    <title>広島ベイズ塾のブログ</title>
     <link>/</link>
-    <description>Recent content on ベイズ塾のブログ</description>
+    <description>Recent content on 広島ベイズ塾のブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>About ベイズ塾ブログ</title>
+      <title>About 広島ベイズ塾ブログ</title>
       <link>/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>ベイズ塾に関係する情報を発信するためのブログです。出版物、研究会、研修会等の情報を中心に発信します。 ベイズ塾HPにはこちらから</description>
+      <description>ベイズ塾に関係する情報を発信するためのブログです。出版物、研究会、研修会等の情報を中心に発信します。 広島ベイズ塾HPにはこちらから</description>
     </item>
     
   </channel>

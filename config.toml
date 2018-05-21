@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "ベイズ塾のブログ"
+title = "広島ベイズ塾のブログ"
 relativeurls = true
 publishDir = "docs"
 hasCJKLanguage = true
@@ -10,7 +10,7 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-    name = "ベイズ塾"
+    name = "広島ベイズ塾"
     bio = "心理学者を中心としたベイズ好きな変態の集合体"
     avatar = "img/avatar.png"
 
