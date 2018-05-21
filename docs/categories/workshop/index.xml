@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on 広島ベイズ塾のブログ</title>
-    <link>/categories/news/</link>
-    <description>Recent content in News on 広島ベイズ塾のブログ</description>
+    <title>Workshop on 広島ベイズ塾のブログ</title>
+    <link>/categories/workshop/</link>
+    <description>Recent content in Workshop on 広島ベイズ塾のブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/post/ws-6-30/</guid>
       <description>広島ベイズ塾・第三回ワークショップ 「心理学者のためのベイズ統計学：モデリングの実際と，モデル選択・評価」のご案内（第一報） 広島ベイズ塾は，昨</description>
-    </item>
-    
-    <item>
-      <title>塾ブログ開設しました。</title>
-      <link>/post/2018-05-21-/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-05-21-/</guid>
-      <description>ベイズ塾のブログを開設しました。ベイズ塾や塾生が関わる出版物、研修会や研究会などの情報を、適宜こちらに配信します。ベイズ塾のHPも現在鋭意作</description>
     </item>
     
   </channel>

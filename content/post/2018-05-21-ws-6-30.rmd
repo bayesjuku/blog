@@ -3,7 +3,7 @@ title: ベイズ統計WS「心理学者のためのベイズ統計学」6/30＠�
 author: ~
 date: '2018-05-21'
 slug: ws-6-30
-categories: []
+categories: [NEWS, WORKSHOP]
 tags: []
 description: ''
 thumbnail: ''
