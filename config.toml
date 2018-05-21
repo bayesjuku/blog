@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "広島ベイズ塾のブログ"
+title = "広島ベイズ塾"
 relativeurls = true
 publishDir = "docs"
 hasCJKLanguage = true
@@ -16,8 +16,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 
 [Params]
-    subtitle = "塾関連情報の配信" # Subtitle of your site
-    description = "ベイズ塾が関係する刊行物、研究会、研修会等の情報を発信しています" # Description of your site
+    subtitle = "広島ベイズ塾のブログ" # Subtitle of your site
+    description = "ベイズ塾や塾生が関係する刊行物、研究会、研修会等の情報を発信しています" # Description of your site
     opengraph = true
     twitter_cards = false
     readmore = false # Show "Read more" button in list if true
