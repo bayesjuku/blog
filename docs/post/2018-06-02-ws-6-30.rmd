@@ -13,7 +13,7 @@ thumbnail: ''
 告知用フライヤーは[こちら](https://bayesjuku.github.io/blog/post/2018_ws_フライヤー.pdf)
 
 <div style="width:300px; height:200px">
-![](https://bayesjuku.github.io/blog/post/フライヤー.png)
+![](フライヤー.png)
 </div>
 ---
 
