@@ -28,7 +28,7 @@ thumbnail: ''
 >  参加方法: [リンク先のサイトから参加登録をしてください](https://connpass.com/event/89217/)  
 >  日時: 2018年6月30日(土) 10:00 〜 17:30    
 >  場所: [専修大学サテライトキャンパス（向ヶ丘遊園）スタジオA](https://www.senshu-u.ac.jp/social/satellite/)   
->  問い合わせ先: kosugi[＠]psy.senshu-u.ac.jp 
+>  問い合わせ先: kosugi＠psy.senshu-u.ac.jp 
   
 
 ---
