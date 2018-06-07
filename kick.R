@@ -5,4 +5,5 @@ new_site(theme="Vimux/Mainroad")
 new_post("2018-06-02-ws-6-30", 
          ext = getOption("blogdown.ext", ".rmd"))
 build_site()
+
 serve_site()
