@@ -72,7 +72,7 @@ thumbnail: ''
 　　[武藤拓之](http://mutopsy.net/) （大阪大学/日本学術振興会特別研究員）  
 　2. 臨床心理学への実践  
 　「妄想の認知モデル」  
-　　[杣取恵太](https://ksomatori.github.io/homepage/index.html) （専修大学/日本学術振興会特別研究員）  
+　　[杣取恵太](https://ksomatori.github.io/homepage/index.html) （専修大学）  
 　3. 社会心理学への実践  
 　「ベイズモデリングでみる因子構造」  
 　　[難波修史](https://sites.google.com/site/hiroshimashushi/home) （広島大学/日本学術振興会特別研究員）  
