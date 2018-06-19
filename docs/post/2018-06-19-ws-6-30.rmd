@@ -1,0 +1,19 @@
+---
+title: ライブ配信のお知らせ：ベイズ統計WS「心理学者のためのベイズ統計学」6/30＠専修大学
+author: ~
+date: '2018-06-19'
+categories: []
+tags: []
+description: ''
+thumbnail: ''
+---
+
+
+広島ベイズ塾主催，ベイズ統計WS[「心理学者のためのベイズ統計学」](https://bayesjuku.github.io/blog/post/2018-06-02-ws-6-30/)に多数のご応募ありがとうございました。  
+  
+ライブ配信を予定していますので、残念ながら会場に来られない方は，要Check!
+
+https://youtu.be/michNQ_mBi0
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/michNQ_mBi0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
