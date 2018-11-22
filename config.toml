@@ -11,7 +11,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
     name = "広島ベイズ塾"
-    bio = "心理学者を中心としたベイズ好きな変態の集合体"
+    bio = "心理学者を中心としたモデリング愛好会"
     avatar = "img/avatar.png"
 
 

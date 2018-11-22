@@ -14,6 +14,13 @@ thumbnail: ''
 
 ```{r,echo=F}
 library(zousan)
+embed_slide("https://www.slideshare.net/simizu706/ss-123679555")
+```
+
+ [清水裕士](http://norimune.net/)（関西学院大学）  
+
+
+```{r,echo=F}
 embed_slide("https://www.slideshare.net/daikihojo/ss-103760750")
 ```
   
@@ -27,7 +34,6 @@ embed_slide("https://www.slideshare.net/HiroyukiMuto/ss-103712544")
 [武藤拓之](http://mutopsy.net/) （大阪大学/日本学術振興会特別研究員）  
   
   
-
 ```{r,echo=F}
 embed_slide("https://www.slideshare.net/SomatoriKeita/ss-103719868")
 ```
