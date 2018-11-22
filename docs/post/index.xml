@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 広島ベイズ塾</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>発表資料公開：広島ベイズ塾第3回WS@専修大学 2018年6月30日開催</title>
+      <link>/post/ws3-summary/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ws3-summary/</guid>
+      <description>ベイズ統計WS「心理学者のためのベイズ統計学」6/30＠専修大の公開資料をまとめました。徳岡さんの資料はリンク先のhtmlファイルをダウンロ</description>
+    </item>
     
     <item>
       <title>参加者案内：ベイズ統計WS「心理学者のためのベイズ統計学」6/30＠専修大学</title>

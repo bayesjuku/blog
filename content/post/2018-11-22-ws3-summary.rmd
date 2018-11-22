@@ -1,0 +1,62 @@
+---
+title: 発表資料公開：広島ベイズ塾第3回WS@専修大学 2018年6月30日開催
+author: ~
+date: '2018-11-22'
+slug: ws3-summary
+categories: []
+tags: []
+description: ''
+thumbnail: ''
+---
+
+ベイズ統計WS「心理学者のためのベイズ統計学」6/30＠専修大の公開資料をまとめました。徳岡さんの資料はリンク先のhtmlファイルをダウンロードしてブラウザ上で開くと見ることができます。
+
+
+```{r,echo=F}
+library(zousan)
+embed_slide("https://www.slideshare.net/daikihojo/ss-103760750")
+```
+  
+ [北條大樹](https://dastatis.github.io/index.html)（東京大学/日本学術振興会特別研究員）  
+ 
+ 
+```{r,echo=F}
+embed_slide("https://www.slideshare.net/HiroyukiMuto/ss-103712544")
+```
+  
+[武藤拓之](http://mutopsy.net/) （大阪大学/日本学術振興会特別研究員）  
+  
+  
+
+```{r,echo=F}
+embed_slide("https://www.slideshare.net/SomatoriKeita/ss-103719868")
+```
+  
+[杣取恵太](https://ksomatori.github.io/homepage/index.html)（専修大学） 
+
+```{r,echo=F}
+embed_slide("https://www.slideshare.net/ShushiNamba/ss-103720688")
+```
+
+[難波修史](https://sites.google.com/site/hiroshimashushi/home)  （広島大学/日本学術振興会特別研究員）  
+
+```{r,echo=F}
+embed_slide("https://www.slideshare.net/TakashiYamane1/type2-sdt")
+```
+
+[山根嵩史](https://w.kawasaki-m.ac.jp/data/4835/teacherDtl/)（川崎医療福祉大学）  
+
+
+```{r,echo=F}
+embed_slide("https://www.slideshare.net/ShushiNamba/ss-103720245")
+```
+
+
+[難波修史](https://sites.google.com/site/hiroshimashushi/home)（広島大学/日本学術振興会特別研究員）
+
+```{r,echo=F}
+library(zousan)
+embed_slide("https://osf.io/7cq2d")
+```
+<b>[ベイズモデリングの報告方法：実際の論文投稿を通して](https://osf.io/7cq2d)</b>  
+[徳岡大](http://mtokuoka.net/%E3%81%A8%E3%81%A3%E3%81%B7%E3%81%BA%E3%83%BC%E3%81%98/achievement/) （高松大学）
