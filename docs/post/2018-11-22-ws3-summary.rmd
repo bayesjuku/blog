@@ -50,7 +50,7 @@ embed_slide("https://www.slideshare.net/ShushiNamba/ss-103720688")
 embed_slide("https://www.slideshare.net/TakashiYamane1/type2-sdt")
 ```
 
-[山根嵩史](https://w.kawasaki-m.ac.jp/data/4835/teacherDtl/)（川崎医療福祉大学）  
+[山根嵩史](http://tyamane1969.net/)（川崎医療福祉大学）  
 
 
 ```{r,echo=F}
