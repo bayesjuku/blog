@@ -54,5 +54,9 @@ embed_slide("https://www.slideshare.net/ShushiNamba/ss-103720245")
 
 [難波修史](https://sites.google.com/site/hiroshimashushi/home)（広島大学/日本学術振興会特別研究員）
 
+```{r, out.width = "450px",echo=F}
+knitr::include_graphics("masaR.png")
+```
+
 <b>[ベイズモデリングの報告方法：実際の論文投稿を通して](https://osf.io/7cq2d)</b>  
 [徳岡大](http://mtokuoka.net/%E3%81%A8%E3%81%A3%E3%81%B7%E3%81%BA%E3%83%BC%E3%81%98/achievement/) （高松大学）
